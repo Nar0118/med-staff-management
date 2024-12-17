@@ -1,0 +1,11 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+# Run build process
+npm run build
+
+# If build fails, block commit
+if [ $? -ne 0 ]; then
+  echo "Build failed. Commit aborted."
+  exit 1
+fi

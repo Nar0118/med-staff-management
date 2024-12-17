@@ -1,0 +1,22 @@
+[
+  { "id": 1, "key": "1", "name": "Nurse Alice", "department": "Cardiology" },
+  { "id": 2, "key": "2", "name": "Nurse Bob", "department": "Surgery" },
+  { "id": 3, "key": "3", "name": "Nurse Claire", "department": "Neurology" },
+  { "id": 4, "key": "4", "name": "Nurse David", "department": "Orthopedics" },
+  { "id": 5, "key": "5", "name": "Nurse Eva", "department": "Pediatrics" },
+  { "id": 6, "key": "6", "name": "Nurse Fiona", "department": "Cardiology" },
+  { "id": 7, "key": "7", "name": "Nurse George", "department": "Surgery" },
+  { "id": 8, "key": "8", "name": "Nurse Hannah", "department": "Dermatology" },
+  {
+    "id": 9,
+    "key": "9",
+    "name": "Nurse Isaac",
+    "department": "Internal Medicine"
+  },
+  {
+    "id": 10,
+    "key": "10",
+    "name": "Nurse Julia",
+    "department": "Emergency Medicine"
+  }
+]

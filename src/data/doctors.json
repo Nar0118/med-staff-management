@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "key": "1",
+    "name": "Dr. John Doe",
+    "department": "Cardiology",
+    "isHead": true
+  },
+  {
+    "id": 2,
+    "key": "2",
+    "name": "Dr. Jane Smith",
+    "department": "Surgery",
+    "isHead": false
+  },
+  {
+    "id": 3,
+    "key": "3",
+    "name": "Dr. Emily Davis",
+    "department": "Neurology",
+    "isHead": false
+  },
+  {
+    "id": 4,
+    "key": "4",
+    "name": "Dr. Michael Brown",
+    "department": "Orthopedics",
+    "isHead": true
+  },
+  {
+    "id": 5,
+    "key": "5",
+    "name": "Dr. Sarah Williams",
+    "department": "Pediatrics",
+    "isHead": false
+  },
+  {
+    "id": 6,
+    "key": "6",
+    "name": "Dr. Robert Johnson",
+    "department": "Cardiology",
+    "isHead": false
+  },
+  {
+    "id": 7,
+    "key": "7",
+    "name": "Dr. Anna Lee",
+    "department": "Surgery",
+    "isHead": true
+  },
+  {
+    "id": 8,
+    "key": "8",
+    "name": "Dr. William Clark",
+    "department": "Dermatology",
+    "isHead": false
+  },
+  {
+    "id": 9,
+    "key": "9",
+    "name": "Dr. Elizabeth Martinez",
+    "department": "Internal Medicine",
+    "isHead": true
+  },
+  {
+    "id": 10,
+    "key": "10",
+    "name": "Dr. James Wilson",
+    "department": "Emergency Medicine",
+    "isHead": false
+  }
+]

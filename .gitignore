@@ -1,0 +1,51 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+.bower_components/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.iml
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Typescript cache
+*.tsbuildinfo
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+# Testing output
+coverage/
+junit.xml
+
+# Lint cache
+.eslintcache
+
+# Husky hooks
+.husky/_
+
+# Production artifacts
+*.tgz
+
+# Local files
+*.local
+*.log
+*.bak
